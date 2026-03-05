@@ -31,9 +31,14 @@ _Laboratory Activities (Step-by-Step)_
 **Part 3: Handle Missing Values**
 
 1. Identify columns with null values.
-     
+     <img width="1630" height="760" alt="image" src="https://github.com/user-attachments/assets/74575e0d-b7b0-4cec-91e3-6a521900aa87" />
 
-
-     
+2. Apply appropriate action:
+   ○ Replace with 0 → Transform → Replace Values
+          <img width="1338" height="742" alt="image" src="https://github.com/user-attachments/assets/15268059-a488-4959-9573-d2800831ea6b" />
+          ![Uploading image.png…]()
+   
+   ○ Remove rows → Remove Rows → Remove Blank Rows
+          
 
 
