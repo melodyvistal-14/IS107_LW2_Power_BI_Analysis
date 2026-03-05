@@ -42,7 +42,9 @@ _Laboratory Activities (Step-by-Step)_
           <img width="1912" height="707" alt="image" src="https://github.com/user-attachments/assets/d3645362-1095-483a-af7a-63455c7e2970" />
 
    ○ Fill down → Transform → Fill → Down
-          ![Uploading image.png…]()
+          <img width="1586" height="271" alt="image" src="https://github.com/user-attachments/assets/56f66ede-9c12-47e0-9168-51bd9b42f621" />
 
 **Part 4: Change Data Types**
 
+
+     ![Uploading image.png…]()
