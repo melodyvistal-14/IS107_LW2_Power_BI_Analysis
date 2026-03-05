@@ -46,5 +46,10 @@ _Laboratory Activities (Step-by-Step)_
 
 **Part 4: Change Data Types**
 
+1. Check icons beside column names.
+     <img width="637" height="817" alt="image" src="https://github.com/user-attachments/assets/0a960cb9-0a65-4ae1-9147-6beed57597a1" />
 
-     ![Uploading image.png…]()
+ 2. Set correct types: ○ Date → Date type, ○ Sales → Decimal Number, ○ Quantity → Whole Number
+          <img width="491" height="894" alt="image" src="https://github.com/user-attachments/assets/19d5a238-a749-4248-8cf7-eb4cc92bb83d" />
+          <img width="480" height="828" alt="image" src="https://github.com/user-attachments/assets/6fca660f-c394-47ba-9340-57fa36e6255f" />
+          ![Uploading image.png…]()
