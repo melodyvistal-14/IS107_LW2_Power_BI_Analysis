@@ -1,55 +1,6 @@
 # IS107_LW2_Power_BI_Analysis
 
 
-
 _Laboratory Activities (Step-by-Step)_
 
-**Part 1: Open Power Query Editor**
-
-1. Open Power BI Desktop.
-     <img width="1232" height="664" alt="image" src="https://github.com/user-attachments/assets/f35e7363-a73d-49c7-82e1-1b9f157fde54" />
-
-2. Click Home → Get Data → Excel Workbook.
-     <img width="1143" height="712" alt="image" src="https://github.com/user-attachments/assets/98c698f4-201b-45be-abd4-8b614ba6174a" />
-
-3. Select Messy_Sales_Data.xlsx.
-     <img width="1347" height="613" alt="image" src="https://github.com/user-attachments/assets/ed5f4246-4626-4f21-b7ca-2cc8702b74d9" />
-
-4. Click Transform Data to open Power Query Editor.
-     <img width="1448" height="828" alt="image" src="https://github.com/user-attachments/assets/3daf4af8-2d66-4d42-a097-8e97cae5fd6f" />
-
-
-**Part 2: Remove Duplicates**
-
-1. Select the table / 2. Highlight the column(s) that should be unique (e.g., OrderID).
-    <img width="1854" height="836" alt="image" src="https://github.com/user-attachments/assets/4e5e891d-66d6-4741-b087-0cf4507122e8" />
-
-3. Click Home → Remove Rows → Remove Duplicates.
-    <img width="1709" height="718" alt="image" src="https://github.com/user-attachments/assets/1c3f4131-b8a9-4d71-ace0-7fb6c1ac5e72" />
-    <img width="1857" height="661" alt="image" src="https://github.com/user-attachments/assets/08fe87d0-410e-4011-863c-4c3e750a811a" />
-
-**Part 3: Handle Missing Values**
-
-1. Identify columns with null values.
-     <img width="1630" height="760" alt="image" src="https://github.com/user-attachments/assets/74575e0d-b7b0-4cec-91e3-6a521900aa87" />
-
-2. Apply appropriate action:
-   ○ Replace with 0 → Transform → Replace Values
-          <img width="1338" height="742" alt="image" src="https://github.com/user-attachments/assets/15268059-a488-4959-9573-d2800831ea6b" />
-          <img width="1905" height="795" alt="image" src="https://github.com/user-attachments/assets/0acade73-e47f-4c67-962f-a1c5f87ad4e5" />
-   
-   ○ Remove rows → Remove Rows → Remove Blank Rows
-          <img width="1912" height="707" alt="image" src="https://github.com/user-attachments/assets/d3645362-1095-483a-af7a-63455c7e2970" />
-
-   ○ Fill down → Transform → Fill → Down
-          <img width="1586" height="271" alt="image" src="https://github.com/user-attachments/assets/56f66ede-9c12-47e0-9168-51bd9b42f621" />
-
-**Part 4: Change Data Types**
-
-1. Check icons beside column names.
-     <img width="637" height="817" alt="image" src="https://github.com/user-attachments/assets/0a960cb9-0a65-4ae1-9147-6beed57597a1" />
-
- 2. Set correct types: ○ Date → Date type, ○ Sales → Decimal Number, ○ Quantity → Whole Number
-          <img width="491" height="894" alt="image" src="https://github.com/user-attachments/assets/19d5a238-a749-4248-8cf7-eb4cc92bb83d" />
-          <img width="480" height="828" alt="image" src="https://github.com/user-attachments/assets/6fca660f-c394-47ba-9340-57fa36e6255f" />
-          ![Uploading image.png…]()
+Google Slide : https://docs.google.com/presentation/d/1CsS5abDGrF_vUlqYcP0OPOYF57kTrvUkDL2-4N9fQ4I/edit?usp=sharing
