@@ -30,3 +30,9 @@ Guide Questions:
 
 4. When is Append more appropriate than Merge?
    - Append is used when combining tables with the same columns, such as monthly sales data.
+  
+
+Enhancement Activities
+
+- A Left Join keeps all records from the first table and adds matching data from the second table, while an Inner Join only keeps rows that match in both tables. Unmatched records are rows where the CustomerID does not exist in both tables, so they will appear blank or null in the merged columns. 
+-
