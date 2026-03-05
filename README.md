@@ -36,9 +36,13 @@ _Laboratory Activities (Step-by-Step)_
 2. Apply appropriate action:
    ○ Replace with 0 → Transform → Replace Values
           <img width="1338" height="742" alt="image" src="https://github.com/user-attachments/assets/15268059-a488-4959-9573-d2800831ea6b" />
-          ![Uploading image.png…]()
+          <img width="1905" height="795" alt="image" src="https://github.com/user-attachments/assets/0acade73-e47f-4c67-962f-a1c5f87ad4e5" />
    
    ○ Remove rows → Remove Rows → Remove Blank Rows
-          
+          <img width="1912" height="707" alt="image" src="https://github.com/user-attachments/assets/d3645362-1095-483a-af7a-63455c7e2970" />
 
+   ○ Fill down → Transform → Fill → Down
+          ![Uploading image.png…]()
+
+**Part 4: Change Data Types**
 
