@@ -14,3 +14,19 @@ Guide Questions
    - Correct data typing ensures numbers, dates, and text are processed properly so calculations work correctly.
 4. What naming conventions improve data readability?
    - Using clear names, lowercase letters, and underscores (like order_id) makes data easier to read and understand.
+
+
+Laboratory Activities
+
+Guide Questions:
+1. What is the difference between Merge and Append?
+   - Merge combines tables using a common column, while Append adds rows from one table to another.
+
+2. Why use Inner Join instead of Left Join?
+   - Inner Join is used to keep only the rows that match in both tables.
+
+3. What happens to unmatched records in an Inner Join?
+   - Unmatched records are removed and do not appear in the result.
+
+4. When is Append more appropriate than Merge?
+   - Append is used when combining tables with the same columns, such as monthly sales data.
